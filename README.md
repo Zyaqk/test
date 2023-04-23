@@ -18,4 +18,4 @@ let str = 'this is js code';
 
 [this is link](https://github.com)
 
-![this is img](https://github.com/Zyaqk)
+![image](https://user-images.githubusercontent.com/131586243/233843108-d7a4d214-9340-4dac-9c75-7f4179aa0231.png)
